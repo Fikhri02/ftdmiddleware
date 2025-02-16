@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FTDMiddlewareApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+463efe70ef6da0178b5aef4d9ddf50223ea2cfe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FTDMiddlewareApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FTDMiddlewareApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

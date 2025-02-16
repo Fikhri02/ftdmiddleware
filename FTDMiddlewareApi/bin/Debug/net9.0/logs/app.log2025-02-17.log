@@ -1,0 +1,238 @@
+2025-02-17 00:28:09,343 [7] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:28:09.317856Z"
+}
+2025-02-17 00:31:48,145 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:31:48.128624Z"
+}
+2025-02-17 00:31:49,997 [10] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:31:49.997238Z"
+}
+2025-02-17 00:33:03,453 [3] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:33:03.453731Z"
+}
+2025-02-17 00:33:20,529 [14] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:33:20.529627Z"
+}
+2025-02-17 00:33:26,827 [14] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:33:26.827822Z"
+}
+2025-02-17 00:34:30,542 [16] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:34:30.542483Z"
+}
+2025-02-17 00:50:03,147 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:50:03.125333Z"
+}
+2025-02-17 00:59:47,248 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T16:59:47.22542Z"
+}
+2025-02-17 00:59:59,939 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 0,
+    "resultmessage": "Invalid Total Amount."
+  },
+  "Time": "2025-02-16T16:59:59.939368Z"
+}
+2025-02-17 01:02:11,239 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 0,
+    "resultmessage": "Invalid Total Amount."
+  },
+  "Time": "2025-02-16T17:02:11.213729Z"
+}
+2025-02-17 01:03:15,309 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 0,
+    "resultmessage": "Invalid Total Amount."
+  },
+  "Time": "2025-02-16T17:03:15.272354Z"
+}
+2025-02-17 01:03:41,839 [12] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T17:03:41.839174Z"
+}
+2025-02-17 01:16:16,487 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T17:16:16.45192Z"
+}
+2025-02-17 01:16:19,175 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T17:16:19.175344Z"
+}
+2025-02-17 01:16:31,881 [10] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T17:16:31.881804Z"
+}
+2025-02-17 01:21:54,305 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z"
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T17:21:54.281018Z"
+}

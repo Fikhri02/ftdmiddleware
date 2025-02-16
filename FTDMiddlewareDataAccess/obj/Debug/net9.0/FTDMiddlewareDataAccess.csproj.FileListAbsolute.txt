@@ -9,3 +9,4 @@
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net9.0/refint/FTDMiddlewareDataAccess.dll
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net9.0/FTDMiddlewareDataAccess.pdb
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net9.0/ref/FTDMiddlewareDataAccess.dll
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net9.0/FTDMiddlewareDataAccess.sourcelink.json

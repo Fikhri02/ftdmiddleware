@@ -5,8 +5,8 @@ namespace FTDMiddlewareDataAccess.Models.ResponseModels;
 
 public class Base
 {
-    [Required(ErrorMessage = "result is required")]
     [JsonPropertyName("result")]
+    [Required(ErrorMessage = "result is required")]
     public int Result {get; set;}
 
     [JsonPropertyName("resultmessage")]

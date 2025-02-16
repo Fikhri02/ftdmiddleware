@@ -39,3 +39,4 @@
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareApi/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareApi/bin/Debug/net9.0/System.Security.Permissions.dll
 /Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareApi/bin/Debug/net9.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareApi/obj/Debug/net9.0/FTDMiddlewareApi.sourcelink.json
