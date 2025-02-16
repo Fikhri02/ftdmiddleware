@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wSSaLVBn4qGxVNMChQbYh+gVjsOrxWK2aTdO8H2RKy4=",
+  "Source": "FTDMiddlewareApi",
+  "BasePath": "_content/FTDMiddlewareApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

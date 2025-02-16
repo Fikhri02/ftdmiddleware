@@ -1,0 +1,31 @@
+2025-02-16 21:33:33,224 [1] INFO  Program - Application is starting...
+2025-02-16 21:33:42,329 [11] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z",
+    "sig": " MDE3ZTBkODg4ZDNhYzU0ZDBlZWRmNmU2NmUyOWRhZWU4Y2M1NzQ1OTIzZGRjYTc1ZGNjOTkwYzg2MWJlMDExMw=="
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T13:33:42.310984Z"
+}
+2025-02-16 21:33:58,474 [10] INFO  FTDMiddlewareApi.Controllers.SubmitTrxMessageController - {
+  "RequestPath": "/api/submittrxmessage",
+  "RequestBody": {
+    "partnerkey": "FAKEGOOGLE",
+    "partnerrefno": "FG-00001",
+    "partnerpassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "timestamp": "2024-08-15T02:11:22.0000000Z",
+    "sig": " MDE3ZTBkODg4ZDNhYzU0ZDBlZWRmNmU2NmUyOWRhZWU4Y2M1NzQ1OTIzZGRjYTc1ZGNjOTkwYzg2MWJlMDExMw=="
+  },
+  "ResponseBody": {
+    "result": 1,
+    "resultmessage": null
+  },
+  "Time": "2025-02-16T13:33:58.473925Z"
+}

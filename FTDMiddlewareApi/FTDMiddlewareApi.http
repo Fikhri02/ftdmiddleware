@@ -1,0 +1,6 @@
+@FTDMiddlewareApi_HostAddress = http://localhost:5278
+
+GET {{FTDMiddlewareApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
