@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7uLmzWQKWno=",
+  "dgSpecHash": "dAX3j6IF5VY=",
   "success": true,
   "projectFilePath": "/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/FTDMiddlewareDataAccess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fikhri/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/fikhri/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

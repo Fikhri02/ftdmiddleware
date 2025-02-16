@@ -1,0 +1,12 @@
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/bin/Debug/net8.0/FTDMiddlewareDataAccess.deps.json
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/bin/Debug/net8.0/FTDMiddlewareDataAccess.dll
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/bin/Debug/net8.0/FTDMiddlewareDataAccess.pdb
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.AssemblyInfoInputs.cache
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.AssemblyInfo.cs
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.csproj.CoreCompileInputs.cache
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.sourcelink.json
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.dll
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/refint/FTDMiddlewareDataAccess.dll
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/FTDMiddlewareDataAccess.pdb
+/Users/fikhri/Projects/FTDMiddleware/FTDMiddlewareDataAccess/obj/Debug/net8.0/ref/FTDMiddlewareDataAccess.dll
