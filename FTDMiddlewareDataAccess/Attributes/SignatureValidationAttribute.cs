@@ -13,7 +13,10 @@ public class SignatureValidationAttribute : ValidationAttribute
             return new ValidationResult("sig is required.");
 
         var request = (SubmitTrxMessageRequest)validationContext.ObjectInstance;
-        string rawString = $"{request.Timestamp}{request.PartnerKey}{request.PartnerRefNo}{request.TotalAmount}{request.PartnerPassword}";
+
+        string formattedTimestamp = request.Timestamp.ToString("yyyyMMddHHmmss");
+
+        string rawString = $"{formattedTimestamp}{request.PartnerKey}{request.PartnerRefNo}{request.TotalAmount}{request.PartnerPassword}";
 
         string expectedSignature = ComputeSha256Base64(rawString);
 
